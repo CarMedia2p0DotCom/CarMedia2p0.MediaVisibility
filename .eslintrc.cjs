@@ -11,7 +11,7 @@ module.exports = {
   ],
   overrides: [
     {
-      files: ["e2e/**.{cy,spec}.{js,ts,jsx,tsx}"],
+      files: ["cypress/e2e/**.{cy,spec}.{js,ts,jsx,tsx}"]
     },
   ],
   parserOptions: {
